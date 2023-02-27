@@ -75,3 +75,17 @@ button:focus {
 #valor-anterior {
     font-size: 2em;
 }
+
+footer {
+    background: rgba(0, 0, 0, .4);
+    text-align: center;
+    
+}
+
+footer p a {
+    text-decoration: none;
+}
+
+footer p a:hover {
+    color: blue;
+}
